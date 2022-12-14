@@ -1,0 +1,39 @@
+- name: 鱼塘热榜
+  url: https://mo.fish/
+  img: /images/logos/fish.ico
+  description: Butterfly 主题
+
+
+
+# - name: HCLonely Blog(主站)
+#   url: https://blog.hclonely.com/
+#   img: /images/logos/myblog.png
+#   description: Butterfly 主题
+# - name: HCLonely Blog(分站)
+#   url: https://next.hclonely.com/
+#   img: /images/logos/myblog.png
+#   description: NexT 主题
+# - name: HCLonely Blog(分站)
+#   url: https://yilia.hclonely.com/
+#   img: /images/logos/myblog.png
+#   description: Yilia Plus 主题
+# - name: HCLonely Blog(分站)
+#   url: https://matery.hclonely.com/
+#   img: /images/logos/myblog.png
+#   description: Matery 主题
+# - name: HCLonely Blog(分站)
+#   url: https://icarus.hclonely.com/
+#   img: /images/logos/myblog.png
+#   description: icarus 主题
+# - name: HCLonely Blog(分站)
+#   url: https://volantis.hclonely.com/
+#   img: /images/logos/myblog.png
+#   description: volantis 主题
+# - name: HCLonely Blog(分站)
+#   url: https://nexmoe.hclonely.com/
+#   img: /images/logos/myblog.png
+#   description: nexmoe 主题
+# - name: HCLonely Blog(分站)
+#   url: https://shana.hclonely.com/
+#   img: /images/logos/myblog.png
+#   description: shana 主题

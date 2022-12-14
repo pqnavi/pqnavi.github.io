@@ -1,10 +1,12 @@
+# 此配置文件为备份，不起作用，需要移动到 source/_data/ ，并改名为 webstack.yml 才起作用。
+
 favicon: /images/favicon.ico
-banner: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/webstack_banner_cn.png
+banner: /images/webstack_banner_cn.png
 
 logo:
-  expanded: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logo@2x.png
-  collapsed: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logo-collapsed@2x.png
-  dark: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logo_dark@2x.png
+  expanded: /images/logo@2x.png
+  collapsed: /images/logo-collapsed@2x.png
+  dark: /images/logo_dark@2x.png
 
 flag:
   icon: flag-cn
@@ -39,7 +41,7 @@ aboutPage:
     head: 关于站长
     name: HCLonely
     url: https://blog.hclonely.com/
-    img: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/images/logos/myblog.png
+    img: /images/logos/myblog.png
     description: 懒人一个
     html: '<br /><blockquote><p>站长是一个懒人！</p></blockquote>'
 
@@ -61,26 +63,26 @@ custom:
 
 js:
   hclonely: /js/hclonely.js
-  jquery: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/js/jquery-1.11.1.min.js
-  bootstrap: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/js/bootstrap.min.js
-  TweenMax: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/js/TweenMax.min.js
-  resizeable: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/js/resizeable.min.js
-  joinable: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/js/joinable.js
-  xenonApi: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/js/xenon-api.min.js
-  xenonToggles: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/js/xenon-toggles.min.js
-  xenonCustom: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/js/xenon-custom.min.js
-  lozad: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/js/lozad.min.js
-  html5shiv: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/js/html5shiv.min.js
-  respond: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/js/respond.min.js
+  jquery: /js/jquery-1.11.1.min.js
+  bootstrap: /js/bootstrap.min.js
+  TweenMax: /js/TweenMax.min.js
+  resizeable: /js/resizeable.min.js
+  joinable: /js/joinable.js
+  xenonApi: /js/xenon-api.min.js
+  xenonToggles: /js/xenon-toggles.min.js
+  xenonCustom: /js/xenon-custom.min.js
+  lozad: /js/lozad.min.js
+  html5shiv: /js/html5shiv.min.js
+  respond: /js/respond.min.js
   busuanzi: https://busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js
 
 css:
   hclonely: /css/hclonely.css
   fonts: //fonts.loli.net/css?family=Arimo:400,700,400italic
-  linecons: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/css/fonts/linecons/css/linecons.min.css
-  fontawesome: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/css/fonts/fontawesome/css/all.min.css
-  bootstrap: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/css/bootstrap.min.css
-  xenonCore: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/css/xenon-core.min.css
-  xenonComponents: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/css/xenon-components.min.css
-  xenonSkins: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/css/xenon-skins.min.css
-  nav: https://cdn.jsdelivr.net/gh/HCLonely/dh.hclonely.com@latest/themes/webstack/source/css/nav.min.css
+  linecons: /css/fonts/linecons/css/linecons.min.css
+  fontawesome: /css/fonts/fontawesome/css/all.min.css
+  bootstrap: /css/bootstrap.min.css
+  xenonCore: /css/xenon-core.min.css
+  xenonComponents: /css/xenon-components.min.css
+  xenonSkins: /css/xenon-skins.min.css
+  nav: /css/nav.min.css
