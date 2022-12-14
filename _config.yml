@@ -100,6 +100,6 @@ theme: webstack
 deploy:
   type: git
   repo: 
-   github: https://github.com/zbqhew/navi.git
+   github: https://github.com/pqnavi/pqnavi.github.io.git
   #  gitee: https://gitee.com/jupeiqi/jupeiqi.gitee.io.git
   #  coding: https://e.coding.net/jupeiqi/jupeiqi/jupeiqi.git
